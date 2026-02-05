@@ -7,8 +7,8 @@ const tools = [
   { name: "Visual Studio Code", logo: "/images/logo-vscode.png" },
   { name: "Premiere Pro", logo: "/images/logo-premiere.png" },
   { name: "Photoshop", logo: "/images/logo-photoshop.png" },
-  { name: "Framer", logo: "/images/logo-framer.jpeg" },
-  { name: "Cursor", logo: "/images/logo-cursor.jpeg" },
+  { name: "Framer", logo: "/images/logo-framer.png" },
+  { name: "Cursor", logo: "/images/logo-cursor.png" },
 ]
 
 export function Stack() {
