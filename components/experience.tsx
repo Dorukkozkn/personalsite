@@ -16,7 +16,7 @@ const experiences = [
     role: "Head Of IT",
     company: "TEDDMUN",
     description:
-      "I am the Information Technology lead & Design of the TED Denizli Model United Nations Club, working on web development, design, and social media management.",
+      "I am the Information Technology & Design lead of the TED Denizli Model United Nations Club, working on web development, design, and social media management.",
   },
   {
     period: "2022 — PRESENT",
