@@ -25,12 +25,6 @@ const experiences = [
       "I am the Information Technology & Design lead of the TED Denizli Model United Nations Club, working on web development, design, and social media management.",
   },
   {
-    period: "2022 — PRESENT",
-    role: "Lead Developer",
-    company: "KRYTHIC STUDIO",
-    description: "I am the founder and lead developer of Krythic Studio.",
-  },
-  {
     period: "2025 — 2026",
     role: "Head Of IT",
     company: "TEDMÜN",
