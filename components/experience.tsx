@@ -29,7 +29,7 @@ const experiences = [
     role: "Head Of IT",
     company: "TEDMÜN",
     description:
-      "I am the tInformation Technology lead of the TED Denizli Debate Club, working on web development and design.",
+      "I am the Information Technology lead of the TED Denizli Debate Club, working on web development and design.",
   },
   {
     period: "2024 — 2025",
