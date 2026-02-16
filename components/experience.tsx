@@ -21,7 +21,7 @@ const experiences = [
     period: "2026 — PRESENT",
     role: "Head Of IT",
     company: "DKRIZ",
-    description: "I am the Information Technology & Design lead of the DENİZLİ Collage KRIZ.",
+    description: "I am the Information Technology & Design lead of the DENİZLİ Collage crisis.",
   },
   {
     period: "2025 — PRESENT",
