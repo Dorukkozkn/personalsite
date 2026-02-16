@@ -1,7 +1,7 @@
 const experiences = [
   {
     period: "2026 — PRESENT",
-    role: "Vice President of School Representative Office",
+    role: "Vice President of School Representative",
     company: "AGORA",
     description: "I am taking on the role of Vice President of the School Representative Office in the largest community in Denizli, at Agora.",
   },  
