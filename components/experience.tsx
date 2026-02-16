@@ -47,7 +47,7 @@ const experiences = [
 
 export function Experience() {
   return (
-    <section className="py-20 max-w-6xl mx-auto px-6">
+    <section className="py-16 w-full">
       <h2 className="text-xs font-medium text-muted-foreground tracking-wider uppercase mb-8 animate-fade-in">
         EXPERIENCE
       </h2>
