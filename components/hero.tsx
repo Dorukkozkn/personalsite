@@ -52,7 +52,7 @@ export function Hero() {
       </div>
 
       <p className="text-muted-foreground leading-relaxed max-w-2xl mb-8 animate-fade-in-up" style={{ animationDelay: "0.1s" }}>
-        {"Hey, I'm Doruk Özkan, a web and iOS developer based in Turkey 🇹🇷 I spend most of my time building clean, performant digital experiences for both web and mobile. I'm passionate about crafting intuitive user interfaces, smooth animations, and developing products that feel simple, fast, and accessible."}
+        {"Hey, I'm Doruk Özkan, a web and iOS developer based in Turkiye 🇹🇷 I spend most of my time building clean, performant digital experiences for both web and mobile. I'm passionate about crafting intuitive user interfaces, smooth animations, and developing products that feel simple, fast, and accessible."}
       </p>
 
       <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-secondary text-sm text-muted-foreground hover:bg-muted transition-colors duration-300 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
