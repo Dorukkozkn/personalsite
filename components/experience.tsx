@@ -8,6 +8,12 @@ const experiences = [
   {
     period: "2026 — PRESENT",
     role: "Head Of IT",
+    company: "BUCALMUN",
+    description: "I am the Information Technology & Design lead of the  BUCALMUN.",
+  },    
+  {
+    period: "2026 — PRESENT",
+    role: "Head Of IT",
     company: "ORİON",
     description: "I am the Information Technology & Design lead of the ORİON.",
   },  
